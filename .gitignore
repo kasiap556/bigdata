@@ -16,6 +16,8 @@ venv/
 *.svg
 *.png
 *.jpg
+*.json
+*.csv
 
 # Pliki logów
 logs/
