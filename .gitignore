@@ -1,0 +1,46 @@
+# Pliki specyficzne dla Jupytera
+.ipynb_checkpoints/
+
+# Pliki specyficzne dla PyCharma
+.idea/
+
+# Pliki zależności
+__pycache__/
+*.py[cod]
+
+# Wirtualne środowisko
+venv/
+.env
+
+# Pliki wyjściowe Jupyter Notebook (opcjonalnie, jeśli generujesz obrazy/wykresy)
+*.svg
+*.png
+*.jpg
+
+# Pliki logów
+logs/
+*.log
+
+# Pliki cache
+.cache/
+
+# Pliki konfiguracyjne Jupytera
+jupyter_config.py
+
+# Pliki checkointów
+.ipynb_checkpoints/
+
+# Dane wyjściowe, jeśli pracujesz na dużych zbiorach danych
+*.csv
+*.tsv
+*.parquet
+*.json
+*.xlsx
+*.db
+
+# Modele i wagi
+*.h5
+*.pt
+*.pth
+*.joblib
+
